@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Clean up YouTutube Sidebar
+// @name            CleanYouTubeSidebar
 // @namespace       https://github.com/markviews
 // @version         1.0
 // @description     Removes distracting buttons from YouTube's sidebar
